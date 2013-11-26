@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калибровка</string>
+    <string name="action_settings">Параметры настройки</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="cancel">Отмена</string>
+    <string name="widetouch_add_app">Добавить</string>
+    <string name="widetouch_search">Поиск</string>
+    <string name="widetouch_favor">избранное</string>
+    <string name="widetouch_camera">камера</string>
+    <string name="widetouch_back">Назад</string>
+    <string name="widetouch_home">Домой</string>
+    <string name="widetouch_setting">Переключение</string>
+    <string name="widetouch_lockscreen">Блок.Экрана</string>
+    <string name="widetouch_screencapture">Скриншоты</string>
+    <string name="widetouch_recently">Недавние</string>
+    <string name="widetouch_music">музыка</string>
+    <string name="widetouch_video">Видео</string>
+    <string name="widetouch_levoice">Голос</string>
+    <string name="widetouch_memoryclear">Очистить память</string>
+    <string name="widetouch_switch">Настройка активации функции</string>
+    <string name="widetouch_float_button">Кнопка</string>
+    <string name="widetouch_widetouch">Прикосновение</string>
+    <string name="widetouch_float_button_summary">Нажмите плавающую кнопку для вызова меню</string>
+    <string name="widetouch_widetouch_summary">Коснитесь любого свободного места на дисплее для вызова меню</string>
+    <string name="widetouch_recentapp">Недавно открытые приложения</string>
+    <string name="switch_brightness">Яркость</string>
+    <string name="switch_wifi">WLAN</string>
+    <string name="switch_rotation">поворот</string>
+    <string name="switch_smart_rotation">Smart Rotate</string>
+    <string name="switch_rotation_off">Rotate off</string>
+    <string name="switch_bluetooth">Bluetooth</string>
+    <string name="switch_profile">Профиль</string>
+    <string name="switch_flightmode">Режим полета</string>
+    <string name="switch_mobile">Моб.</string>
+    <string name="switch_gps">GPS</string>
+    <string name="switch_empty" />
+    <string name="msg_memoryclear">Очистка</string>
+    <string name="msg_clear_size">&lt;cf font=Arial>%d Мб &lt;/cf>памяти свободно</string>
+    <string name="msg_function_select">Выбор приложений</string>
+    <string name="msg_try_widetouch">Калибровка</string>
+    <string name="msg_known">ОК</string>
+    <string name="hint_normal">Для калибровки нажмите пальцем в центре круга</string>
+    <string name="hint_secret_label" />
+    <string name="hint_secret_text">"1.Сильно нажмите пальцем
+2.Полностью прижмите палец"</string>
+    <string name="hint_counting_down">Осталось 3 сек.</string>
+    <string name="hint_success">Калибровка завершена</string>
+    <string name="hint_fail_too_short">Осталось мало времени, повт. попытку</string>
+    <string name="hint_fail_gesture_wrong">Ошибка распознав. жеста, повт. попытку</string>
+</resources>

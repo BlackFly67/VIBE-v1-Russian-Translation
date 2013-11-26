@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калибровка</string>
+    <string name="action_settings">Параметры</string>
+    <string name="hint_normal">Нажмите на круг и удерж. 3 сек.</string>
+    <string name="hint_counting_down">Осталось %d сек.</string>
+    <string name="hint_success">Калибровка завершена</string>
+    <string name="hint_fail_too_short">Осталось мало времени, повт. попытку</string>
+    <string name="hint_fail_gesture_wrong">Ошибка распознав. жеста, повт. попытку</string>
+</resources>
