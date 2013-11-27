@@ -2,5 +2,5 @@
 <resources>
     <string name="next">Далее</string>
     <string name="scroll_left_bar_title">Выполните прокрутку для просмотра других режимов съемки</string>
-    <string name="zoome_title">Масштабирование_</string>
+    <string name="zoome_title">Масштабирование</string>
 </resources>
